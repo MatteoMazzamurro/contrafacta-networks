@@ -1,0 +1,313 @@
+id,label,in_degree,out_degree
+1,Martin le Beguin,0,0
+2,Wasteblé,0,0
+3,Pons de Capdoill,0,27
+4,Pons de la Garda,0,1
+5,Jordan Bonel de Cofolen,0,0
+6,Arnaut de Maroill,0,26
+7,Monge de Foissan,2,0
+8,Bertran de Born,22,14
+9,Gaucelm Faidit,1,32
+10,Joan Lag,0,3
+11,Raimon de Tors,4,0
+12,Peire Cardenal,36,1
+13,Eble d'Uisel,1,3
+14,Hartwig von Raute,0,0
+15,Jori,3,0
+16,Rudolf von Fenis,0,0
+17,Gace Brulé,0,16
+18,Guigo de Cabanas,3,0
+19,Guillem de Berguedan,2,10
+20,Guiraut Riquier,9,0
+21,Raimbaut de Vaqueiras,7,32
+22,Aimeric de Peguilhan,2,2
+23,Richart de Berbezill,0,3
+24,Raimon de Miraval,7,31
+25,Peire de Bragairac,1,0
+26,Peire Raimon de Toloza,0,2
+27,Berenguier de Palazol,3,0
+28,Moniot d'Arras,0,0
+29,Philippe de Nanteuil,0,0
+30,Gui d'Uisel,2,4
+31,Peirol,1,41
+32,Guilhem d'Autpol,1,0
+33,Author of BdT 461.189,0,0
+34,Guillem del Baus,3,2
+35,Coms de Proensa,4,0
+36,Gui de Cavaillo,6,19
+37,Lo Vesques de Basaz,0,1
+38,Uc (Baussan),3,1
+39,Peire de Valeira,0,0
+40,Dalfin d'Alvernhe,4,1
+41,Folquet de Marseilla,1,11
+42,Bertran d'Alamano,11,1
+43,Monge de Montaudo,5,1
+44,Gavaudan,1,0
+45,Guillem de la Tor,2,0
+46,Bernart de Ventadorn,0,26
+47,Bernart Marti,0,0
+48,Pons de Monlaur,1,0
+49,Peire Bremon Ricas Novas,4,0
+50,Serveri de Girona,7,1
+51,Uc de Saint Circ,16,2
+52,Sordel,13,8
+53,Peire Vidal,0,42
+54,Peire Rogier,0,0
+55,Blacatz,7,0
+56,Author of RS 1576a,0,0
+57,Raimbaut III d'Aurenga,0,10
+58,Peire Raimon de Toloza (lo vielh),0,4
+59,Daude de Pradas,0,0
+60,Marcabru,5,4
+61,Cercamon,0,0
+62,Albertet de Sestaro,0,1
+63,Giraut de Borneill,3,27
+64,Monge,0,0
+65,Author of BdT 461.35a,0,0
+66,Gormonda,1,0
+67,Sail d'Escola,0,5
+68,Peire Bremon lo Tort,0,1
+69,Pujol,3,0
+70,Author of BdT 461.97,0,0
+71,Blondel de Nesle,0,0
+72,Author of BdT 461.9a,0,0
+73,Arnaut Catalan,0,0
+74,Jaufre Rudel,0,3
+75,Peire d'Alvergne,1,2
+76,Guiraut de Calanso,0,0
+77,Guiraut de Cabreira,0,0
+78,Arnaut Daniel,1,6
+79,Simon Doria,6,0
+80,Albert,2,0
+81,Guillem IX d'Aquitania,1,3
+82,Gontier,0,0
+83,Uc Catola,1,0
+84,Joan d'Albuzo,1,0
+85,Marcoat,0,0
+86,Adam de la Halle,0,0
+87,Author of BdT 461.247,1,0
+88,Author of BdT 461.147,1,0
+89,Jean Bodel,0,0
+90,Bonifaci Calvo,3,0
+91,Elias Cairel,0,0
+92,Guillem de Saint Leidier,2,26
+93,Gausbert de Poicibot,0,0
+94,Formit de Perpignan,0,0
+95,Elias Fonsalada,0,0
+96,Author of RS 1457,0,4
+97,Albert Malaspina,0,12
+98,Gautier de Coinci,1,1
+99,Hilarius,0,1
+100,Author of BdT 234.12,0,6
+101,Elias de Barjols,3,6
+102,Guillem de Cabestaing,0,11
+103,Philippe le Chancellier,1,1
+104,Guillem Figueira,10,2
+105,Uc Brunet,0,2
+106,Ademar (II) de Poitiers,1,6
+107,Perdigo,2,6
+108,Raimon Jordan,0,16
+109,Peire de Gavaret,0,1
+110,Peire de Durban,0,1
+111,Author of BdT 461.148,0,1
+112,Garin d'Apchier,1,2
+113,Raimon VII de Toloza,1,1
+114,Author of Promat chorus hodie,0,1
+115,Author of Ecce letantur omnia,0,1
+116,Bertran d'Aurel,1,1
+117,Author of De ramis cadunt folia,0,1
+118,Author of In hoc anni circulo,0,1
+119,Tostemps,0,1
+120,Comte,1,0
+121,Guiraudo lo Ros,1,0
+122,Bernart d'Auriac,2,0
+123,Author of BdT 461.123c,1,0
+124,Author of BdT 461.75,1,0
+125,Author of BdT 461.123,1,0
+126,Bertran Carbonel,17,0
+127,Author of BdT 461.76a,1,0
+128,La comtessa de Proensa,1,0
+129,Author of BdT 461.141,1,0
+130,Author of RS 646,1,0
+131,Bernart Arnaut d'Armagnac,1,0
+132,Raimon Gaucelm de Beziers,5,0
+133,Lombarda,1,0
+134,Montan Sartre,1,0
+135,Thibaut II Count of Bar,1,0
+136,Aldric del Vilar,1,0
+137,Guillem de Saint Gregori,1,0
+138,Bertolome Zorzi,2,0
+139,Falquet de Romans,5,0
+140,Raimon de las Salas,1,0
+141,Author of BdT 461.235,1,0
+142,Guillem de Mur,3,0
+143,Author of BdT 461.30,1,0
+144,Ademar Jordan,1,0
+145,Aenac,1,0
+146,Aicart,1,0
+147,Aimeric de Belenoi,1,0
+148,Alaisina Yselda,1,0
+149,Alart de Chans,1,0
+150,Alberico da Romano,1,0
+151,Guillem Fabre,1,0
+152,Alest,1,0
+153,Alexandre,1,0
+154,Alfonso X de Castilla,1,0
+155,Amoros dau Luc,1,0
+156,Arnaut de Cumenge,1,0
+157,Austorc d'Alboy,1,0
+158,Austorc d'Aorlhac,1,0
+159,Author of BdT 242.52,1,0
+160,Author of BdT 242.52a,2,0
+161,Author of BdT 461.112,2,0
+162,Guillem Raimon,1,0
+163,Guiot de Dijon,1,0
+164,Author of BdT 461.123b,1,0
+165,Guiraut de Luc,1,0
+166,Author of BdT 461.127,1,0
+167,Author of BdT 461.129,1,0
+168,Author of BdT 461.130,1,0
+169,Author of BdT 461.135,1,0
+170,Author of BdT 461.14,1,0
+171,Author of BdT 461.15,1,0
+172,Author of BdT 461.154,1,0
+173,Author of BdT 461.159,1,0
+174,Author of BdT 461.170b,1,0
+175,Author of BdT 461.175a,1,0
+176,Author of BdT 461.200b,1,0
+177,Author of BdT 461.202,1,0
+178,Author of BdT 461.204,1,0
+179,Author of BdT 461.21,1,0
+180,Author of BdT 461.214,1,0
+181,Author of BdT 461.214a,1,0
+182,Author of BdT 461.215a,1,0
+183,Author of BdT 461.218a,1,0
+184,Author of BdT 461.220,2,0
+185,Author of BdT 461.220bis,1,0
+186,Author of BdT 461.234,1,0
+187,Author of BdT 461.23a,1,0
+188,Author of BdT 461.24,1,0
+189,Author of BdT 461.244,1,0
+190,Author of BdT 461.27a,1,0
+191,Lanfranc Cigala,13,0
+192,Author of BdT 461.33,1,0
+193,Author of BdT 461.34,1,0
+194,Author of BdT 461.36,1,0
+195,Author of BdT 461.43,3,0
+196,Author of BdT 461.60,1,0
+197,Author of BdT 461.70a,1,0
+198,Author of BdT 461.74,1,0
+199,Author of BdT 461.76,1,0
+200,Author of BdT 461.80,1,0
+201,Author of BdT 461.94,1,0
+202,Author of BdT 461.96,1,0
+203,Author of BdT 461.98,1,0
+204,Author of BdT 82.50,2,0
+205,Author of RS 1388a,1,0
+206,Author of RS 1459,1,0
+207,Author of RS 1506,1,0
+208,Author of RS 1780,1,0
+209,Author of RS 1934,1,0
+210,Author of RS 365,1,0
+211,Author of RS 390,1,0
+212,Author of RS 898,1,0
+213,Berenguier de Poivent,1,0
+214,Berenguier de Poizrengier,1,0
+215,Bernardo,1,0
+216,Matieu de Caerci,1,0
+217,Mir Bernart,1,0
+218,Mola,1,0
+219,Bernart de la Barta,2,0
+220,Bernart de Rovenac,2,0
+221,Bernart de Tot lo mon,2,0
+222,Bernart Sicart de Marvejols,1,0
+223,Bernger von Horheim,1,0
+224,Enric II de Rodez,5,0
+225,Faure,3,0
+226,Folquet de Lunel,2,0
+227,Bertran de Born lo fills,2,0
+228,Bertran de Paris de Roergue,1,0
+229,Blacasset,7,0
+230,Pelizier,3,0
+231,Bonafe,2,0
+232,Bonafos,1,0
+233,Guillem de Montaignagol,4,0
+234,Bonifaci de Castellana,3,0
+235,Cadenet,2,0
+236,Carenza,1,0
+237,Cavaire,1,0
+238,Chardo,1,0
+239,Charles I d'Anjou,1,0
+240,Nicolet de Turin,2,0
+241,Palais,2,0
+242,Conon de Betune,1,0
+243,Raimon,1,0
+244,Dalfinet,1,0
+245,Daude de Carlus,1,0
+246,Duran sartor de Paernas (de Carpentras),1,0
+247,Eble de Saignas,1,0
+248,Esquileta,1,0
+249,Falconet,4,0
+250,Felip de Valenza,1,0
+251,Fortunier,1,0
+252,Reforsat de Tres,3,0
+253,Rofian,1,0
+254,Giraut Riquier,1,0
+255,Granet,3,0
+256,Sifre,1,0
+257,Peire de la Mula,2,0
+258,Gui de Glotos,1,0
+259,Peire del Vilar,1,0
+260,Guilhem Alaman,1,0
+261,Guillaume le Vinier,1,0
+262,Guillem Anelier de Toloza,1,0
+263,Marcabru II,2,0
+264,Guillem de Durfort,2,0
+265,Guillem de l'Olivier d'Arle,3,0
+266,Tomas,1,0
+267,Torcafol,4,0
+268,Guillem de Salaignac,1,0
+269,Joan Esteve,2,0
+270,Peire Guillem de Luzerna,2,0
+271,Oste,1,0
+272,Uc de l'Escura,1,0
+273,Guillem Gasmar,1,0
+274,Guillem Magret,1,0
+275,Guiraut de Salaignac,2,0
+276,Hue de Saint Quentin,1,0
+277,Jacme Grill,1,0
+278,Peire Duran,1,0
+279,Lambert,1,0
+280,Lantelm,1,0
+281,Lantelmet de l'Aguillo,1,0
+282,Lanza Marques,1,0
+283,Le Trobaire de Villa-Arnaut,1,0
+284,lo Coms de Blandra,1,0
+285,Lo Vesques de Clarmon,1,0
+286,Peire d'Estanh,2,0
+287,Luquet Gatelus,1,0
+288,Maenard Ros,1,0
+289,Marques,3,0
+290,Raimbaut d'Eira,2,0
+291,Thibaut IV de Champagne,1,0
+292,Montan,1,0
+293,Peire Imbert,1,0
+294,Peire,1,0
+295,Peire Basc,1,0
+296,Uc de Maensac,1,0
+297,Uc de Mataplana,1,0
+298,Raimon de Castelnou,2,0
+299,Raimon de Cornet,2,0
+300,Peire de Bussignac,2,0
+301,Vaquier,1,0
+302,Rainaut,2,0
+303,Peire de Castelnou,1,0
+304,Richard I of England,1,0
+305,Raimbaut de Beljoc,2,0
+306,Perseval Doria,1,0
+307,Peire Milo,1,0
+308,Peire Torat,1,0
+309,Raimon Bistortz d'Arle,1,0
+310,Ricaut Bonomel,1,0
+311,Taurel,1,0
+312,Uc de Murel,1,0
