@@ -1,5 +1,10 @@
 ---
-title: "contrafacta_first_three_generations"
+title: "Contrafacta in the First Three Troubadour Generations"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'contrafacta_first_three_generations.html'))})
 author: "Matteo Mazzamurro"
 date: "21 febbraio 2022"
 output: html_document
