@@ -1028,7 +1028,7 @@ This code shows the degree distribution and the reachability sets obtained when 
 ```
 
 ###3.6.1 Random selection of date - forward reachability
-Contrafacta creation date are selected uniformly at random within the interval provided in the BdT. The operation is repeated 100 times and results are compared with the deterministic selection.
+For each contrafactum, the creation date is selected uniformly at random within the interval provided in the BdT. The temporal network is constructed and the forward reachability of each node is computed. The operation is repeated 100 times.
 ```{r}
 contrafacta_fwd_bkwd_m<-matrix(nrow=312, ncol=200)
 all_fwd_bkwd_m<-matrix(nrow=312, ncol=200)
@@ -1243,7 +1243,14 @@ all_fwd_bkwd_m[,m+100]<-bkwd_reach_all_contrafacta
 }
 ```
 
-Visuals (does not work)
+The results from the above computations are analysed
 ```{r}
-```
+#mean coefficient of variation
+mean(rowSds(contrafacta_fwd_bkwd_m[,1:100])/mean(contrafacta_fwd_bkwd_m[,1:100]))
 
+#mean quartile coefficient of dispersion
+mean((rowQuantiles(all_fwd_bkwd_m[,1:100])[,4]-rowQuantiles(all_fwd_bkwd_m[,1:100])[,2])/(rowQuantiles(all_fwd_bkwd_m[,1:100])[,4]+rowQuantiles(all_fwd_bkwd_m[,1:100])[,2]))
+
+#histogram of quartile coefficient of dispersion
+hist((rowQuantiles(all_fwd_bkwd_m[,1:100])[,4]-rowQuantiles(all_fwd_bkwd_m[,1:100])[,2])/(rowQuantiles(all_fwd_bkwd_m[,1:100])[,4]+rowQuantiles(all_fwd_bkwd_m[,1:100])[,2]))
+```
